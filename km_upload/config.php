@@ -8,10 +8,10 @@
 return [
     //阿里云OSS配置
     'aliyun' => [
-        'KeyId'      => 'LTAIsJ5U3ZjhGKY3',  //您的Access Key ID
-        'KeySecret'  => 'GJtt7CxASmweGxZDEZjY8KKFzES6qu',  //您的Access Key Secret
+        'KeyId'      => '',  //您的Access Key ID
+        'KeySecret'  => '',  //您的Access Key Secret
         'Endpoint'   => 'oss-cn-beijing.aliyuncs.com',  //阿里云oss 外网地址endpoint
-        'Bucket'     => 'jian-zhi',  //Bucket名称
+        'Bucket'     => '',  //Bucket名称
     ],
     //百度图床
     'baidu_img'=>[
